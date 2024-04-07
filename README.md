@@ -1,6 +1,4 @@
 # ABBY-Code_Challenge_3
-# Week 3 Code Challenge
-
 ## AUTHOR
 [Abby Sarah](https://github.com/mendarr)
 
